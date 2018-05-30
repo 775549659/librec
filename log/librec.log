@@ -1,0 +1,471 @@
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Job Setup completed.
+SVDPlusPlusRecommender iter 1: loss = 11201.423045450894, delta_loss = -11201.423
+SVDPlusPlusRecommender iter 2: loss = 9907.901131301518, delta_loss = 1293.522
+SVDPlusPlusRecommender iter 3: loss = 9263.318464005864, delta_loss = 644.58264
+SVDPlusPlusRecommender iter 4: loss = 8881.129931453039, delta_loss = 382.18854
+SVDPlusPlusRecommender iter 5: loss = 8622.452595038158, delta_loss = 258.67734
+SVDPlusPlusRecommender iter 6: loss = 8421.183975806576, delta_loss = 201.26862
+SVDPlusPlusRecommender iter 7: loss = 8243.650395066607, delta_loss = 177.53358
+SVDPlusPlusRecommender iter 8: loss = 8071.882164975898, delta_loss = 171.76823
+SVDPlusPlusRecommender iter 9: loss = 7896.353656744996, delta_loss = 175.5285
+SVDPlusPlusRecommender iter 10: loss = 7712.698072828891, delta_loss = 183.65558
+SVDPlusPlusRecommender iter 11: loss = 7519.98709976835, delta_loss = 192.71097
+SVDPlusPlusRecommender iter 12: loss = 7319.798290174444, delta_loss = 200.18881
+SVDPlusPlusRecommender iter 13: loss = 7115.466701377677, delta_loss = 204.33159
+Job Train completed.
+Job End.
+Evaluator value:MAE is 0.6159432678611797
+Evaluator value:MSE is 0.6420247394001063
+Evaluator value:MPE is 0.9801016088060965
+Evaluator value:RMSE is 0.8012644628336554
+Result path is ../result/filmtrust/rating-svdpp-output/svdpp
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Job Setup completed.
+SVDPlusPlusRecommender iter 1: loss = 11201.423045450894, delta_loss = -11201.423
+SVDPlusPlusRecommender iter 2: loss = 9907.901131301518, delta_loss = 1293.522
+SVDPlusPlusRecommender iter 3: loss = 9263.318464005864, delta_loss = 644.58264
+SVDPlusPlusRecommender iter 4: loss = 8881.129931453039, delta_loss = 382.18854
+SVDPlusPlusRecommender iter 5: loss = 8622.452595038158, delta_loss = 258.67734
+SVDPlusPlusRecommender iter 6: loss = 8421.183975806576, delta_loss = 201.26862
+SVDPlusPlusRecommender iter 7: loss = 8243.650395066607, delta_loss = 177.53358
+SVDPlusPlusRecommender iter 8: loss = 8071.882164975898, delta_loss = 171.76823
+SVDPlusPlusRecommender iter 9: loss = 7896.353656744996, delta_loss = 175.5285
+SVDPlusPlusRecommender iter 10: loss = 7712.698072828891, delta_loss = 183.65558
+SVDPlusPlusRecommender iter 11: loss = 7519.98709976835, delta_loss = 192.71097
+SVDPlusPlusRecommender iter 12: loss = 7319.798290174444, delta_loss = 200.18881
+SVDPlusPlusRecommender iter 13: loss = 7115.466701377677, delta_loss = 204.33159
+Job Train completed.
+Job End.
+Evaluator value:RMSE is 0.8012644628336554
+Evaluator value:MSE is 0.6420247394001063
+Evaluator value:MAE is 0.6159432678611797
+Evaluator value:MPE is 0.9801016088060965
+Result path is ../result/filmtrust/rating-svdpp-output/svdpp
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Dataset: ../data/filmtrust/rating
+Dataset: ../data/filmtrust/rating
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/filmtrust/rating
+All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+All dataset files size 411942
+Now loading dataset file ratings_0
+Now loading dataset file ratings_1
+Now loading dataset file ratings_2
+Now loading dataset file ratings_3
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 28408
+Data size of testing is 7086
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Job Setup completed.
+SVDPlusPlusRecommender iter 1: loss = 347563.5014656631, delta_loss = -347563.5
+SVDPlusPlusRecommender iter 2: loss = 308379.0451471764, delta_loss = 39184.457
+SVDPlusPlusRecommender iter 3: loss = 290184.2707103661, delta_loss = 18194.775
+SVDPlusPlusRecommender iter 4: loss = 277084.7439504839, delta_loss = 13099.526
+SVDPlusPlusRecommender iter 5: loss = 265919.40423336526, delta_loss = 11165.34
+SVDPlusPlusRecommender iter 6: loss = 255463.73204515682, delta_loss = 10455.672
+SVDPlusPlusRecommender iter 7: loss = 245187.30004945994, delta_loss = 10276.432
+SVDPlusPlusRecommender iter 8: loss = 234890.5703299184, delta_loss = 10296.7295
+SVDPlusPlusRecommender iter 9: loss = 224564.4249440693, delta_loss = 10326.1455
+SVDPlusPlusRecommender iter 10: loss = 214332.79675797294, delta_loss = 10231.628
+SVDPlusPlusRecommender iter 11: loss = 204380.8149010176, delta_loss = 9951.981
+SVDPlusPlusRecommender iter 12: loss = 194857.78572205917, delta_loss = 9523.029
+SVDPlusPlusRecommender iter 13: loss = 185837.92556550534, delta_loss = 9019.86
+Job Train completed.
+Job End.
+Evaluator value:RMSE is 1.0701092216218353
+Evaluator value:MSE is 1.1451337462000903
+Evaluator value:MAE is 0.8154950300400475
+Evaluator value:MPE is 0.964947164666983
+Result path is ../result/epionisons-svdpp-output/svdpp
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Job Setup completed.
+SVDPlusPlusRecommender iter 1: loss = 347563.5014656631, delta_loss = -347563.5
+SVDPlusPlusRecommender iter 2: loss = 308379.0451471764, delta_loss = 39184.457
+SVDPlusPlusRecommender iter 3: loss = 290184.2707103661, delta_loss = 18194.775
+SVDPlusPlusRecommender iter 4: loss = 277084.7439504839, delta_loss = 13099.526
+SVDPlusPlusRecommender iter 5: loss = 265919.40423336526, delta_loss = 11165.34
+SVDPlusPlusRecommender iter 6: loss = 255463.73204515682, delta_loss = 10455.672
+SVDPlusPlusRecommender iter 7: loss = 245187.30004945994, delta_loss = 10276.432
+SVDPlusPlusRecommender iter 8: loss = 234890.5703299184, delta_loss = 10296.7295
+SVDPlusPlusRecommender iter 9: loss = 224564.4249440693, delta_loss = 10326.1455
+SVDPlusPlusRecommender iter 10: loss = 214332.79675797294, delta_loss = 10231.628
+SVDPlusPlusRecommender iter 11: loss = 204380.8149010176, delta_loss = 9951.981
+SVDPlusPlusRecommender iter 12: loss = 194857.78572205917, delta_loss = 9523.029
+SVDPlusPlusRecommender iter 13: loss = 185837.92556550534, delta_loss = 9019.86
+Job Train completed.
+Job End.
+Evaluator value:RMSE is 1.0701092216218353
+Evaluator value:MSE is 1.1451337462000903
+Evaluator value:MAE is 0.8154950300400475
+Evaluator value:MPE is 0.964947164666983
+Result path is ../result/epionisons-svdpp-output/svdpp
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Job Setup completed.
+SVDPlusPlusRecommender iter 1: loss = 347563.5014656631, delta_loss = -347563.5
+SVDPlusPlusRecommender iter 2: loss = 308379.0451471764, delta_loss = 39184.457
+SVDPlusPlusRecommender iter 3: loss = 290184.2707103661, delta_loss = 18194.775
+SVDPlusPlusRecommender iter 4: loss = 277084.7439504839, delta_loss = 13099.526
+SVDPlusPlusRecommender iter 5: loss = 265919.40423336526, delta_loss = 11165.34
+SVDPlusPlusRecommender iter 6: loss = 255463.73204515682, delta_loss = 10455.672
+SVDPlusPlusRecommender iter 7: loss = 245187.30004945994, delta_loss = 10276.432
+SVDPlusPlusRecommender iter 8: loss = 234890.5703299184, delta_loss = 10296.7295
+SVDPlusPlusRecommender iter 9: loss = 224564.4249440693, delta_loss = 10326.1455
+SVDPlusPlusRecommender iter 10: loss = 214332.79675797294, delta_loss = 10231.628
+SVDPlusPlusRecommender iter 11: loss = 204380.8149010176, delta_loss = 9951.981
+SVDPlusPlusRecommender iter 12: loss = 194857.78572205917, delta_loss = 9523.029
+SVDPlusPlusRecommender iter 13: loss = 185837.92556550534, delta_loss = 9019.86
+Job Train completed.
+Job End.
+Evaluator value:RMSE is 1.0701092216218353
+Evaluator value:MSE is 1.1451337462000903
+Evaluator value:MAE is 0.8154950300400475
+Evaluator value:MPE is 0.964947164666983
+Result path is ../result/epionisons-svdpp-output/svdpp
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+MySVDPlus iter 1: loss = NaN, delta_loss = NaN
+Dataset: ../data/epionisons
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+Job Train completed.
+Job End.
+Evaluator value:MSE is 1.455002704825762
+Evaluator value:RMSE is 1.2062349293673111
+Evaluator value:MAE is 0.9188021334697248
+Evaluator value:MPE is 0.7090780366194425
+Result path is ../result/epionisons-mysvdplus-output/mysvdplus
+Dataset: ../data/epionisons
+All dataset files [..\data\epionisons\ratingsdatacopy.txt]
+All dataset files size 9314943
+Now loading dataset file ratingsdatacopy
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 532052
+Data size of testing is 132771
+Transform data to Feature successfully!
+Job Setup completed.
+Job Train completed.
+Job End.
+Evaluator value:MSE is 1.455002704825762
+Evaluator value:RMSE is 1.2062349293673111
+Evaluator value:MAE is 0.9188021334697248
+Evaluator value:MPE is 0.7090780366194425
+Result path is ../result/epionisons-mysvdplus-output/mysvdplus

@@ -76,6 +76,7 @@ pmf=net.librec.recommender.cf.rating.PMFRecommender
 rbm=net.librec.recommender.cf.rating.RBMRecommender
 rfrec=net.librec.recommender.cf.rating.RFRecRecommender
 svdpp=net.librec.recommender.cf.rating.SVDPlusPlusRecommender
+mysvdplus=net.librec.recommender.cf.rating.MySVDPlus
 urp=net.librec.recommender.cf.rating.URPRecommender
 userknn=net.librec.recommender.cf.UserKNNRecommender
 efm=net.librec.recommender.content.EFMRecommender
